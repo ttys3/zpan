@@ -8,7 +8,7 @@ require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.6+incompatible
 	github.com/aws/aws-sdk-go v1.34.14
 	github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f // indirect
-	github.com/gin-contrib/gzip v0.0.3 // indirect
+	github.com/gin-contrib/gzip v0.0.3
 	github.com/gin-gonic/gin v1.7.0
 	github.com/go-oauth2/oauth2/v4 v4.4.1
 	github.com/golang-jwt/jwt v3.2.2+incompatible
@@ -24,7 +24,7 @@ require (
 	github.com/upyun/go-sdk/v3 v3.0.2
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	gorm.io/driver/mysql v1.0.3
 	gorm.io/driver/postgres v1.0.6
 	gorm.io/driver/sqlite v1.1.4
